@@ -77,25 +77,15 @@ body {
 
 
 
-
-.year {
-     position: absolute;
-     z-index: 1;
-     line-height: 85px;
-     right: 38.5%;
-     color: #fff;
-     font-size: 11px !important; 
-}
-
 .overlay-text {
      position: absolute;
      color: red;
      z-index: 1;
-     font-size: 148px;
-     font-weight: 200;
+     font-size: 70px;
+     font-weight: 150;
      transform: rotate(-18deg);
-     top: 26%;
-     left: 4%; 
+     top: 22%;
+     left: 31; 
      mix-blend-mode: color;
      opacity: 0;
      animation: blinker 1s linear infinite;
